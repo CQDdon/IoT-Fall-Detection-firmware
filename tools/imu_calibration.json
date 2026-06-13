@@ -1,0 +1,16 @@
+{
+  "created_at_epoch": 1780689563.4701822,
+  "sample_count": 29,
+  "roll_offset_deg": 25.46820310344887,
+  "pitch_offset_deg": -6.522468964929317,
+  "yaw_offset_deg": 93.97932172413829,
+  "roll_stddev_deg": 0.0033115785416597617,
+  "pitch_stddev_deg": 0.020268380222920546,
+  "yaw_stddev_deg": 0.0030642556265068903,
+  "avg_acc_m_s2": {
+    "ax": -0.07854206896551724,
+    "ay": -0.11781241379310345,
+    "az": 9.778382413793105
+  },
+  "notes": "Offsets assume the IMU was motionless on the desired zero-angle surface."
+}
